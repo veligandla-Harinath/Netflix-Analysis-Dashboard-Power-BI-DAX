@@ -80,9 +80,14 @@ Use the Movie/TV Show toggle and year range slider to explore the data interacti
 ├── Data/
 ├── Screenshots/
 └── README.md
-📬 Connect With Me
+```
+```
+
+## 📬 Connect With Me
+
 If you found this project useful or have feedback, feel free to connect or reach out!
 
-LinkedIn: [linkedin.com/in/veligandlaharinath]
-Email: [veligandlaharinath470@gmail.com]
+- LinkedIn: [linkedin.com/in/veligandlaharinath]
+- Email: veligandlaharinath470@gmail.com
 
+⭐ If you like this project, consider giving it a star on GitHub!
