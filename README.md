@@ -80,5 +80,9 @@ Use the Movie/TV Show toggle and year range slider to explore the data interacti
 ├── Data/
 ├── Screenshots/
 └── README.md
-👤 Author
-V. Harinath , https://www.linkedin.com/in/veligandlaharinath | veligandlaharinath470@gmail.com
+📬 Connect With Me
+If you found this project useful or have feedback, feel free to connect or reach out!
+
+LinkedIn: [linkedin.com/in/veligandlaharinath]
+Email: [veligandlaharinath470@gmail.com]
+
